@@ -1,3 +1,4 @@
+//this code came from going through Daniel Shiffman's tutorial on mapping earthquake data
 var mapimg;
 
 var clat = 0;
